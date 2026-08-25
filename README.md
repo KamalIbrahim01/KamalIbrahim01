@@ -2,9 +2,11 @@
 
 ### Data Analyst | Excel | Power BI | SQL | Python
 
-I work with data from **entry and preparation through analysis and visualization**, turning raw information into clear dashboards, meaningful insights, and practical recommendations.
+I turn raw data into **clear insights, interactive dashboards, and practical business recommendations** — from data entry and preparation through analysis and visualization.
 
-My focus is on **data cleaning, exploratory analysis, business reporting, dashboard development, and data-driven decision-making**. I enjoy taking datasets that are difficult to interpret and transforming them into information that can help answer real business questions.
+My work focuses on **data cleaning, exploratory analysis, business reporting, dashboard development, KPI analysis, and data-driven decision-making**.
+
+I enjoy taking data that is difficult to interpret and turning it into information that helps answer real business questions.
 
 ---
 
@@ -12,10 +14,9 @@ My focus is on **data cleaning, exploratory analysis, business reporting, dashbo
 
 I'm a Computer Science student with a background in education and a growing focus on **Data Analytics and Business Intelligence**.
 
-I work primarily with **Excel, Power BI, SQL, and Python**, using them to organize and prepare data, identify patterns, build interactive dashboards, and communicate findings clearly.
+I work primarily with **Excel, Power BI, SQL, and Python**, using them to organize and prepare data, identify patterns, build dashboards, and communicate findings clearly.
 
-I'm particularly interested in understanding not just **what happened in the data**, but also **why it happened and what a business can do about it**.
-
+I'm interested in understanding not only **what happened in the data**, but also **why it happened and what can be done about it**.
 
 ---
 
@@ -23,6 +24,7 @@ I'm particularly interested in understanding not just **what happened in the dat
 
 - Data Entry & Data Organization
 - Data Cleaning & Preparation
+- Data Quality Checks
 - Exploratory Data Analysis
 - Excel Analysis & Reporting
 - Power BI Dashboard Development
@@ -59,99 +61,73 @@ I'm particularly interested in understanding not just **what happened in the dat
 
 # Featured Data Analytics Projects
 
-These projects showcase my practical experience working with data, from preparation and analysis to visualization and business insights.
+I build practical analytics projects that turn raw data into **clear insights, useful dashboards, and business recommendations**.
+
+| Project | Tools | Description |
+|---|---|---|
+| [HR Analytics Dashboard](https://github.com/KamalIbrahim01/powerbi-hr-analytics-dashboard) | • Power BI<br>• DAX<br>• Data Modeling | Interactive HR analytics dashboard analyzing workforce trends, employee satisfaction, promotions, job levels, and workforce distribution. |
+| [Marketing Campaign Analysis](https://github.com/KamalIbrahim01/marketing-campaign-analysis) | • Microsoft Excel<br>• PivotTables<br>• Data Visualization | Interactive marketing performance dashboard analyzing impressions, clicks, conversion rate, acquisition cost, ROI, campaign channels, locations, and target audiences. |
+| [Furniture Sales & Profitability Analysis](https://github.com/KamalIbrahim01/furniture-sales-analysis-excel) | • Microsoft Excel<br>• PivotTables<br>• PivotCharts | Sales and profitability analysis examining customer segments, product categories, regional performance, shipping trends, and profitability across the United States. |
+| [Udemy Course Analysis](https://github.com/KamalIbrahim01/UDEMY-COURSE-ANALYSIS) | • Power BI<br>• Data Cleaning<br>• Data Visualization | Interactive dashboard analyzing course performance, revenue, pricing, subscribers, and category trends to identify patterns in online course performance. |
+| [Educational Analytics Capstone](https://github.com/KamalIbrahim01/educational-analytics-capstone) | • Python<br>• SQL<br>• Excel<br>• Power BI | End-to-end analytics project covering data preparation, ETL, SQL analysis, visualization, and dashboard development using multiple data sources. |
 
 ---
 
-## 1. Furniture Sales & Profitability Analysis — Excel
+## Project Highlights
+
+### HR Analytics Dashboard
+
+**Power BI | DAX | Power Query | Data Modeling | Data Visualization**
+
+An interactive HR dashboard designed to transform workforce data into useful management insights.
+
+The project examines areas including:
+
+- Workforce distribution
+- Employee satisfaction
+- Job levels
+- Promotions
+- Workforce trends
+- KPI reporting
+- Interactive filtering
+
+**Key skills demonstrated:**
+
+`Power BI` `DAX` `Data Modeling` `Power Query` `Dashboard Design`
+
+[View Project →](https://github.com/KamalIbrahim01/powerbi-hr-analytics-dashboard)
+
+---
+
+### Marketing Campaign Analysis
+
+**Microsoft Excel | PivotTables | PivotCharts | Slicers | Data Visualization**
+
+An interactive marketing performance dashboard analyzing campaign effectiveness across different channels, locations, campaign types, and target audiences.
+
+The dashboard brings key metrics such as **impressions, clicks, conversion rate, acquisition cost, and ROI** into a single reporting view.
+
+**Key skills demonstrated:**
+
+`Excel` `PivotTables` `Dashboard Design` `KPI Reporting` `Data Visualization`
+
+[View Project →](https://github.com/KamalIbrahim01/marketing-campaign-analysis)
+
+---
+
+### Furniture Sales & Profitability Analysis
 
 **Microsoft Excel | PivotTables | PivotCharts | Slicers | Data Visualization**
 
 An interactive Excel dashboard analyzing furniture sales, profitability, customer segments, product categories, regional performance, and shipping patterns across the United States.
 
-### What I analyzed
+One of the main findings was that **strong sales do not always translate into strong profitability**, demonstrating why revenue and profit should be analyzed together.
 
-- Sales and profit performance
-- Customer segments
-- Regional performance
-- Product categories
-- Geographic sales distribution
-- Shipping methods
-- Delivery duration
-- Revenue versus profitability
+**Key skills demonstrated:**
 
-### Key finding
-
-One of the main findings was that **strong sales do not always translate into strong profitability**. For example, the Central Consumer segment generated significant sales while recording a negative profit, highlighting the importance of analyzing profitability alongside revenue.
+`Excel` `PivotTables` `Business Analysis` `Profitability Analysis` `Dashboard Design`
 
 [View Project →](https://github.com/KamalIbrahim01/furniture-sales-analysis-excel)
-
----
-
-## 2. Power BI Dashboard
-
-**Power BI | Power Query | DAX | Data Modeling | Data Visualization**
-
-An interactive Power BI dashboard focused on transforming business data into actionable insights through KPIs, interactive filters, and analytical visualizations.
-
-### Skills demonstrated
-
-- Data transformation with Power Query
-- Data modeling
-- DAX measures
-- KPI development
-- Interactive reporting
-- Dashboard design
-- Business insight generation
-
-[View Project →](#)
-
----
-
-## 3. Educational Analytics Capstone
-
-**Python | SQL | Excel | Power BI | Data Cleaning | ETL**
-
-An end-to-end data analytics project demonstrating the complete process of transforming multiple raw data sources into a structured analytical dataset and interactive dashboard.
-
-The project demonstrates the complete analytics workflow:
-
-**Raw Data → Data Cleaning → ETL → SQL Analysis → Visualization → Insights**
-
-### Skills demonstrated
-
-- Data cleaning with Python
-- Data transformation
-- SQL analysis
-- Data quality checks
-- Database management
-- Power BI dashboard development
-- Analytical storytelling
-
-[View Project →](#)
-
----
-
-## 4. SQL Data Analysis
-
-**SQL | MySQL | Data Exploration | Business Questions**
-
-A collection of SQL analysis projects focused on extracting meaningful insights from structured datasets.
-
-The projects demonstrate practical use of:
-
-- SELECT statements
-- Filtering
-- Aggregations
-- GROUP BY
-- HAVING
-- JOINs
-- Subqueries
-- CASE statements
-- Window functions
-- CTEs
-
-[View Projects →](#)
 
 ---
 
@@ -177,59 +153,3 @@ Dashboard & Visualization
 Business Insights
         ↓
 Recommendations
-```
-
-I believe analysis should begin with **data quality**, not visualization.
-
-Before building a dashboard, I want to understand whether the data is complete, unique, valid, consistent, and suitable for answering the business question.
-
----
-
-# What I'm Currently Working On
-
-- Building practical Data Analytics projects
-- Improving my Power BI and DAX skills
-- Strengthening SQL for analytical workflows
-- Developing Python skills for data analysis
-- Building Excel dashboards and reporting solutions
-- Taking on practical data entry and data preparation work
-- Expanding my portfolio with real-world business problems
-
----
-
-# Certifications
-
-- DataCamp Data Analyst Associate
-- Cisco Data Analytics Essentials
-- SAP Student Learning Hub
-- Additional certifications and training
-
----
-
-# GitHub Statistics
-
-![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamalIbrahim01&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalIbrahim01&layout=compact&hide_border=true)
-
----
-
-# Contribution Activity
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/KamalIbrahim01/KamalIbrahim01/output/github-contribution-grid-snake.svg)
-
----
-
-# Let's Connect
-
-I'm interested in connecting with other data professionals, collaborating on analytics projects, and working on opportunities involving data analysis, reporting, and business intelligence.
-
-**LinkedIn:** [Connect with me](#)
-
-**GitHub:** [KamalIbrahim01](https://github.com/KamalIbrahim01)
-
-**Email:** [Your Email](mailto:your-email@example.com)
-
----
-
-### Turning data into insights, one project at a time.
